@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.exe
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.deps.json
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.dll
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\bin\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.pdb
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.dll
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.pdb
+C:\Users\ADVANCED\Desktop\Day 21 Classwork\MoodAnalyserAppWithCore\MoodAnalyserAppWithCore\obj\Debug\netcoreapp3.1\MoodAnalyserAppWithCore.genruntimeconfig.cache
