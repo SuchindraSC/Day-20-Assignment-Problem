@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj": {}
+    "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj": {
+    "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj",
+        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj",
         "projectName": "MoodAnalyserAppWithCore",
-        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj",
+        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj",
         "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\obj\\",
+        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj": {
+    "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj",
+        "projectUniqueName": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj",
         "projectName": "MoodAnalyserMSTesting",
-        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj",
+        "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\MoodAnalyserMSTesting.csproj",
         "packagesPath": "C:\\Users\\ADVANCED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\obj\\",
+        "outputPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserMSTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADVANCED\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj": {
-                "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Day 21 Classwork\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj"
+              "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj": {
+                "projectPath": "C:\\Users\\ADVANCED\\Desktop\\Assignments\\Day 20 Assignment Problem\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore\\MoodAnalyserAppWithCore.csproj"
               }
             }
           }

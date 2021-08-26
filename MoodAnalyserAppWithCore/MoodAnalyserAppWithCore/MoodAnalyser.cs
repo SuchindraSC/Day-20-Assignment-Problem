@@ -6,7 +6,7 @@ namespace MoodAnalyserAppWithCore
 {
     public class MoodAnalyser
     {
-        private string message;
+        public string message;
         public MoodAnalyser(string message)
         {
             this.message = message;
